@@ -1,0 +1,18 @@
+git comandos basicos
+ 
+-cd = possibita que a gente navegue entre as pastas
+-dir = mostra todos os diretorios que estão em minha volta
+-mkdir = criar uma pasta
+-del/rmdir = del irá deletar só o txt dentro da pasta 
+-cd.. = volta para a pasta anterior
+-cls= limpar o terminal 
+-tab = função de alto completar
+
+SHA1 = Algoritimo de encriptação que gera conjunto de characteres com 40 digitos
+ex: openssl sha1 texto.txt
+
+
+marianarocha14@outlook.com
+mariana14
+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 token de acesso
+
